@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "puppeteer": "^23.4.0",
+    "puppeteer-core": "^23.4.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  },
+  "name": "projeto-web-scraping-anuncios",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test",
+    "dev": "node index.js"
+  },
+  "author": "lissandro",
+  "license": "ISC",
+  "description": ""
+}
